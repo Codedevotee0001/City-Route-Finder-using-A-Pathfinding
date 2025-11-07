@@ -1,1 +1,1 @@
-# City-Route-Finder-using-A-Pathfinding
+Maze Solver using Search Algorithms
